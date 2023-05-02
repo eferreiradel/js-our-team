@@ -1,0 +1,10 @@
+* {
+  border: 1px solid black;
+}
+
+.card-header {
+  text-align: center;
+}
+.card-footer {
+  text-align: center;
+}
